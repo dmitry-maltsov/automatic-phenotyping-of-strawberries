@@ -355,18 +355,18 @@ AIC: информационный критерий Акайке; БИК: бай�
 > ### Abbreviations
 AIC: Akaike information criterion; BIC: Bayesian information criterion; BLUP: best linear unbiased prediction; CSV: comma-separated values; EFA: elliptical Fourier analysis; FPR: false-positive rate; GM: Geometric Morphometrics; GPA: generalized Procrustes analysis; GWAS: genome-wide association studies; LDA: linear discriminant analysis; MDS: multi-dimensional scaling; OOB: out-of-bag error; PC: principal component; PCA: principal component analysis; PH: persistent homology; PPKC: Principal Progression of k Clusters; SEM: structure equation model; SIOX: Simple Interactive Object Extraction; SVR: support vector regression; VSURF: Variable Selection Using Random Forests.
 
-[figure 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig1.jpeg
-[figure 2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig2.jpeg
-[figure 3]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig3.jpeg
-[figure 4]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig4.jpeg
-[figure 5]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig5.jpeg
-[figure 6]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig6.jpeg
-[figure 7]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/figures/fig7.jpeg
-[eq 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq1.png
-[eq 2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq2.png
-[eq 3]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq3.png
-[eq 4]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq4.png
-[eq 5]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq5.png
-[eq 6]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/equations/eq6.png
-[code 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/code/code1.jpeg
-[tb2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/data/tables/tb2.png
+[figure 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig1.jpeg
+[figure 2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig2.jpeg
+[figure 3]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig3.jpeg
+[figure 4]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig4.jpeg
+[figure 5]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig5.jpeg
+[figure 6]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig6.jpeg
+[figure 7]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/figures/fig7.jpeg
+[eq 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq1.png
+[eq 2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq2.png
+[eq 3]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq3.png
+[eq 4]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq4.png
+[eq 5]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq5.png
+[eq 6]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/equations/eq6.png
+[code 1]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/code/code1.jpeg
+[tb2]: https://raw.githubusercontent.com/dmitry-maltsov/automatic-phenotyping-of-strawberries/master/article/data/tables/tb2.png
