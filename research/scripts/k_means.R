@@ -11,7 +11,7 @@ library(cluster)
 library(NbClust)
 library(lme4)
 
-pics <- list.files(path = "~/Desktop/Reading/Strawberry_Research/Heterosis/Salinas/Data/Images/ReSized",full.names = TRUE)
+pics <- list.files(path = "D:/auto-phenotyping/Images/ReSized",full.names = TRUE)
 
 load_and_resize = function(path){image = load.image(path);resize(im = image,size_x = 100, size_y = 100)}
 
